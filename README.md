@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AivanD
-- 👀 I’m interested in computing science and nursing.
+- 👀 I’m interested in computing science.
 - 🌱 I’m currently learning photography 
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me: aivan_dolor (instagram), Aivan Dolor (Facebook)

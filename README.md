@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AivanD
 - 👀 I’m interested in computing science.
-- 🌱 I’m currently learning photography and reviewing my notes on CMPUT.
+- 🌱 I’m currently learning photography and doing my 3rd year in CS at University of Alberta
 - 💞️ I’m looking to collaborate on anything interesting.
 - 📫 How to reach me: aivan_dolor (instagram), Aivan Dolor (Facebook)
 

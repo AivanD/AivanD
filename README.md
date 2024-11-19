@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AivanD
 - 👀 I’m interested in computing science.
-- 🌱 I’m currently doing my 3rd year in CS at University of Alberta
+- 🌱 I’m currently doing my 3rd(1/2) year in CS at University of Alberta
 - 💞️ I’m looking to collaborate on anything interesting.
 - 📫 How to reach me: aivan_dolor (instagram), Aivan Dolor (Facebook)
 
